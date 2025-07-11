@@ -1,8 +1,10 @@
-This project focuses on analyzing ice cream sales data using PySpark for data preprocessing and Power BI for interactive dashboard visualization. The primary goal was to transform raw transactional data into a structured star schema using dimension and fact tables, enabling deeper insights into sales patterns and customer behavior.
+This project focuses on analyzing ice cream sales data using PySpark for data preprocessing and building model using star schema and  Power BI for interactive dashboard visualization. The primary goal was to transform raw transactional data into a structured star schema using dimension and fact tables, enabling deeper insights into sales patterns and customer behavior.
 
 🔧 Tools & Technologies Used:
 
 Python (PySpark)
+
+Star Schema 
 
 Excel (for saving processed data)
 
